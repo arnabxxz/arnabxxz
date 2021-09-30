@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnabxxz&label=Profile%20views&color=0e75b6&style=flat" alt="arnabxxz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnabxxz" alt="arnabxxz" /></a> </p>
-
 - 🌱 I’m currently learning **Editing in After Effects and improving languages more like python**
 
 - ⚡ Fun fact **Coding Bugs were NOT named after an actual bug.**
@@ -23,4 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnabxxz&show_icons=true&locale=en" alt="arnabxxz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnabxxz&" alt="arnabxxz" /></p>
-
