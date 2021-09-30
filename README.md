@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnab Chowdhury</h1>
-<h3 align="center">A Anime Lover Boy Who Love Coding and to do lots of new things</h3>
+<h3 align="center">An Anime Lover Boy Who Love Coding and to do lots of new things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnabxxz&label=Profile%20views&color=0e75b6&style=flat" alt="arnabxxz" /> </p>
 
